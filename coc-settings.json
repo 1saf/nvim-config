@@ -36,6 +36,10 @@
     "python"
   ],
   "coc.preferences.hoverTarget": "float",
+  "coc.preferences.jumpCommand": "drop",
+
+  "tsserver.log": "verbose",
+  "tsserver.trace.server": "verbose",
 
   // python config
   "python.linting.enabled": true,
